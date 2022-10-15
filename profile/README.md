@@ -74,13 +74,14 @@
 <br>
 
 
-|이름|포지션|Git Address|
-|:----:|:----:|:----:|
-|율무|FrontEnd|[✅ 구경가기!](https://github.com/wang-yurin)|
-|루모스|FrontEnd|[✅ 구경가기!](https://github.com/seunghw)|
-|캄토노|FrontEnd|[✅ 구경가기!](https://github.com/deipanema)|
-|동동|FrontEnd|[✅ 구경가기!](https://github.com/dongdongee)|
-|주륵|FrontEnd|[✅ 구경가기!](https://github.com/wugusaud77)|
-|카니|BackEnd|[✅ 구경가기!](https://github.com/KaniKim)|
-|킨드|BackEnd|[✅ 구경가기!](https://github.com/Cha-Young-Ho)|
+|이름|포지션|Git|Contact|
+|:----:|:----:|:----:|:----:|
+|율무|FrontEnd|[✅ 구경가기!](https://github.com/wang-yurin)|-|
+|루모스|FrontEnd|[✅ 구경가기!](https://github.com/seunghw)|-|
+|캄토노|FrontEnd|[✅ 구경가기!](https://github.com/deipanema)|-|
+|동동|FrontEnd|[✅ 구경가기!](https://github.com/dongdongee)|-|
+|주륵|FrontEnd|[✅ 구경가기!](https://github.com/wugusaud77)|-|
+|카니|BackEnd|[✅ 구경가기!](https://github.com/KaniKim)|-|
+|킨드|BackEnd|[✅ 구경가기!](https://github.com/Cha-Young-Ho)|-|
+|얌|Designer|-|tyunevr@naver.com|
 
