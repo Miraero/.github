@@ -75,25 +75,28 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/wang-yurin"><img src="https://avatars.githubusercontent.com/u/101461874?v=4" width="100px;" alt="율무"/><br /><sub><b>율무</b></sub></a><br />
+        <a href="https://github.com/wang-yurin"><img src="https://avatars.githubusercontent.com/u/101461874?v=4" width="100px;" alt="율무"/><br /><sub><b>율무💻</b></sub></a><br />
         </td>
         <td align="center">
-        <a href="https://github.com/seunghw"><img src="https://avatars.githubusercontent.com/u/70190106?v=4" width="100px;" alt="루모스"/><br /><sub><b>루모스</b></sub></a><br />
+        <a href="https://github.com/seunghw"><img src="https://avatars.githubusercontent.com/u/70190106?v=4" width="100px;" alt="루모스"/><br /><sub><b>루모스💻</b></sub></a><br />
         </td>
         <td align="center">
-        <a href="https://github.com/deipanema"><img src="" width="100px;" alt="캄토노"/><br /><sub><b>캄토노</b></sub></a><br />
+        <a href="https://github.com/deipanema"><img src="https://mblogthumb-phinf.pstatic.net/MjAyMTA0MTlfMjUx/MDAxNjE4ODM4ODY4MTMx.Ghcvnc6uH2Egwy9HfreseyqqW8kHgXzvYCftQ3GCYBkg.peQlD2t_lc5zzYywlK2KYY_xkV5tQhxUWG2HHVaw6PUg.JPEG.cheguebara/IMG%EF%BC%BF20210417%EF%BC%BF083621%EF%BC%BF751.jpg?type=w800" width="100px;" alt="캄토노"/><br /><sub><b>캄토노💻</b></sub></a><br />
         </td>
         <td align="center">
-        <a href="https://github.com/dongdongee"><img src="" width="100px;" alt="동동"/><br /><sub><b>동동</b></sub></a><br />
+        <a href="https://github.com/dongdongee"><img src="https://postfiles.pstatic.net/20141202_100/eponine77_141749260124837gPA_JPEG/f0163868_5075804eda78d.jpg?type=w2" width="100px;" alt="동동"/><br /><sub><b>동동💻</b></sub></a><br />
         </td>
         <td align="center">
-        <a href="https://github.com/wugusaud77"><img src="https://avatars.githubusercontent.com/u/26669223?v=4" width="100px;" alt="주륵"/><br /><sub><b>주륵</b></sub></a><br />
+        <a href="https://github.com/wugusaud77"><img src="https://avatars.githubusercontent.com/u/26669223?v=4" width="100px;" alt="주륵"/><br /><sub><b>주륵💻</b></sub></a><br />
         </td>
         <td align="center">
-        <a href="https://github.com/KaniKim"><img src="https://avatars.githubusercontent.com/u/19832624?v=4" width="100px;" alt="카니"/><br /><sub><b>카니</b></sub></a><br />
+        <a href="https://github.com/KaniKim"><img src="https://avatars.githubusercontent.com/u/19832624?v=4" width="100px;" alt="카니"/><br /><sub><b>카니📱</b></sub></a><br />
         </td>
         <td align="center">
-        <a href="https://github.com/Cha-Young-Ho"><img src="https://avatars.githubusercontent.com/u/79268661?v=4" width="100px;" alt="킨드"/><br /><sub><b>킨드</b></sub></a><br />
+        <a href="https://github.com/Cha-Young-Ho"><img src="https://avatars.githubusercontent.com/u/79268661?v=4" width="100px;" alt="킨드"/><br /><sub><b>킨드📱</b></sub></a><br />
+        </td>
+        <td align="center">
+        <a href=""><img src="https://image-notepet.akamaized.net/resize/620x-/seimage/20190104%2F4ceebf301cf61479f62d88990f863b8d.jpg" width="100px;" alt="얌"/><br /><sub><b>얌🎨</b></sub></a><br />
         </td>
       </tr>
       </tbody>
