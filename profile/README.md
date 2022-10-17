@@ -126,5 +126,3 @@
   <img src="https://user-images.githubusercontent.com/97335934/196179052-8c2ab6d6-fd6e-4fba-b03e-338395231b7c.png" width="100" alt="Mockup UI"/>
 </div>
 <div align=center><h3>Thank You!</h3></div>
-
-<div align=center><a href="https://miraero-front.azurewebsites.net">미래로 보내는 편지</a></div>
