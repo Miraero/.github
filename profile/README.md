@@ -23,26 +23,27 @@
 
 ## Function
 ### Function1 카카오 로그인
-복잡하게 아이디/비밀번호를 고르고 기억할 필요없이 <br/> 
-**카카오 로그인**만으로 우리 서비스를 편리하게 이용하실 수 있어요.<br/><br/>
 <img src="https://user-images.githubusercontent.com/97335934/196197663-cd0359db-34e0-41b8-88ba-45aedd94c343.png" width="250" alt="Mockup UI"/>
 
+복잡하게 아이디/비밀번호를 고르고 기억할 필요없이 <br/> 
+**카카오 로그인**만으로 우리 서비스를 편리하게 이용하실 수 있어요.<br/><br/>
 
 
 ### Function2 편지 적기
-**편지지** 느낌이 나도록 구겨진 종이 질감을 선택했어요. <br>
-미래의 나에게 보내는 타임 캡슐🚀이에요!<br/><br/>
 <img src="https://user-images.githubusercontent.com/97335934/196197759-ca4ec09f-d073-4039-830f-f14a0e3b74c8.png" width="250" alt="Mockup UI"/>
 
+**편지지** 느낌이 나도록 구겨진 종이 질감을 선택했어요. <br>
+미래의 나에게 보내는 타임 캡슐🚀이에요!<br/><br/>
 
 
 
 ### Function3 편지함
+
+<img src="https://user-images.githubusercontent.com/97335934/196197867-217ab471-c299-46a0-bcdc-8485f165a454.png" width="250" alt="Mockup UI"/>
+
 편지함에서 받아볼 수 있어요. 미래에요!☝️ <br>
 편지 쓴 당시의 기분과 사건을 돌아보면서  <br>
 과거의 나👩‍👦를 만나봐요.<br/><br/>
-<img src="https://user-images.githubusercontent.com/97335934/196197867-217ab471-c299-46a0-bcdc-8485f165a454.png" width="250" alt="Mockup UI"/>
-
 
 
 
