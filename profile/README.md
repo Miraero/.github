@@ -46,10 +46,6 @@
 
 
 
-
-사용자가 미래에 메세지를 전달받았을 때 메시지를 적었을 그 당시의 기분과 사건들을 돌아보면서 긍정적으로 삶을 바라보게 되었으면 좋겠습니다.
-
-
 ## 사용 기술
 ### Common
 <span>
@@ -130,5 +126,4 @@
 </div>
 <div align=center><h3>Thank You!</h3></div>
 
-<br/>
 <div align=center><a href="https://miraero-front.azurewebsites.net">미래로 보내는 편지</a></div>
