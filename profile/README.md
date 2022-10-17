@@ -22,14 +22,14 @@
 
 
 ## Function
-### Function1 카카오 로그인
+### Function1 로그인
 <img src="https://user-images.githubusercontent.com/97335934/196197663-cd0359db-34e0-41b8-88ba-45aedd94c343.png" width="250" alt="Mockup UI"/>
 
 복잡하게 아이디/비밀번호를 고르고 기억할 필요없이 <br/> 
 **카카오 로그인**만으로 우리 서비스를 편리하게 이용하실 수 있어요.<br/><br/>
 
 
-### Function2 편지 적기
+### Function2 편지 작성
 <img src="https://user-images.githubusercontent.com/97335934/196197759-ca4ec09f-d073-4039-830f-f14a0e3b74c8.png" width="250" alt="Mockup UI"/>
 
 **편지지** 느낌이 나도록 구겨진 종이 질감을 선택했어요. <br>
@@ -37,7 +37,7 @@
 
 
 
-### Function3 편지함
+### Function3 받은 편지함
 
 <img src="https://user-images.githubusercontent.com/97335934/196197867-217ab471-c299-46a0-bcdc-8485f165a454.png" width="250" alt="Mockup UI"/>
 
