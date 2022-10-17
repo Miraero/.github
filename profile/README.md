@@ -1,76 +1,94 @@
-# 📮 미래로 보내는 편지(Miraero)
-
-> 저희는 미래의 나에게 **선물🎁**을 해주고 싶었어요! 그래서 **Miraero**라는 이름이 탄생하였답니다.🤗
-
-미래의 나에게 하고싶은 말이 있으신가요?
-
-미래로 보내는 편지가 도와드릴게요!🤗
 
 
-
-<br>
-
-# 🧐 서비스 설명 
-
-> 저희는 이런 기능이 있어요!!
-
-* 편지 쓰기
-* 편지 읽기
-* 카카오 로그인
-* 카카오 알림받기
-
-<br>
-
-## 📝 편지 쓰기 
-
-> 편지를 써보아요!
+# 미래로 보내는 편지💘
+> 미래의 당신에게 전할 이야기가 있나요?
 
 
-<br>
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/97335934/196182763-7ec4a36c-282d-40e8-a372-bfd01e2ccc65.png" width="500" alt="Mockup UI"/>
+</div>
 
+<br/>
 
-## 👀 편지 읽기 
-
-> 과거의 나가 쓴 편지를 읽어보아요!
+```
+어릴 적 느린 우체통을 통해서 1년 전 나에게 온 편지를 받은 기억이 있어요.
+과거에 내가 바랬던 미래 모습이 적혀 있었는데, 현재를 되돌아보는 계기가 됐거든요.
+이걸 온라인에서 해본다면 어떨까!해서 ✨미래로 보내는 편지✨가 나오게 되었습니다.
+```
 
 
 
-<br>
-
-## 🖼 카카오 로그인 
-
-> 불편한 회원가입은 없어요!🌼
 
 
 
-<br>
-
-## ⏱ 카카오 알림받기 
-
-> 기억이 나시도록 저희가 알려드릴게요!!🤗
-
-
-
-<br>
-
-# 🌿 저희를 소개할게요!
-
-안녕하세요!👋
-**미래로 보내는 편지 팀**입니다.
-
-저희는 "테오의 스프린트 13기"에 참여했어요.
-
-서로 마음이 맞아서 모여서 같이 서비스를 만들어보았습니다.
-
-너무나 재밌었어요!🌈
+## Function
+### Function1 카카오 로그인
+복잡하게 아이디/비밀번호를 고르고 기억할 필요없이 <br/> 
+**카카오 로그인**만으로 우리 서비스를 편리하게 이용하실 수 있어요.<br/><br/>
+<img src="https://user-images.githubusercontent.com/97335934/196197663-cd0359db-34e0-41b8-88ba-45aedd94c343.png" width="250" alt="Mockup UI"/>
 
 
 
-<br>
+### Function2 편지 적기
+**편지지** 느낌이 나도록 구겨진 종이 질감을 선택했어요. <br>
+미래의 나에게 보내는 타임 캡슐🚀이에요!<br/><br/>
+<img src="https://user-images.githubusercontent.com/97335934/196197759-ca4ec09f-d073-4039-830f-f14a0e3b74c8.png" width="250" alt="Mockup UI"/>
 
-> 저희 팀은 잘 웃는답니다😊 그래서 고무줄 바지만 입어요😂
 
 
+
+### Function3 편지함
+편지함에서 받아볼 수 있어요. 미래에요!☝️ <br>
+편지 쓴 당시의 기분과 사건을 돌아보면서  <br>
+과거의 나👩‍👦를 만나봐요.<br/><br/>
+<img src="https://user-images.githubusercontent.com/97335934/196197867-217ab471-c299-46a0-bcdc-8485f165a454.png" width="250" alt="Mockup UI"/>
+
+
+
+
+
+사용자가 미래에 메세지를 전달받았을 때 메시지를 적었을 그 당시의 기분과 사건들을 돌아보면서 긍정적으로 삶을 바라보게 되었으면 좋겠습니다.
+
+
+## 사용 기술
+### Common
+<span>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gather-caa6fe?style=flat-square&logo=Undertale&logoColor=white"/>
+</span>
+
+### UI/UX
+
+<span>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+</span>
+
+### Front-End
+
+
+<span>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/StyledComponents/Emotion-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/>
+</span>
+</br>
+<span>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+</span>
+
+
+
+### Back-End
+<span>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-011D9C?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+
+</span>
+
+## 만든 사람들
 <table>
   <tbody>
     <tr>
@@ -101,20 +119,16 @@
       </tr>
       </tbody>
       </table>
+      
+      
+      
+      
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/97335934/196179052-8c2ab6d6-fd6e-4fba-b03e-338395231b7c.png" width="100" alt="Mockup UI"/>
+</div>
+<div align=center><h3>Thank You!</h3></div>
 
-
-<br>
-
-
-|이름|포지션|Git|Contact|
-|:----:|:----:|:----:|:----:|
-|율무|FrontEnd|[✅ 구경가기!](https://github.com/wang-yurin)|-|
-|루모스|FrontEnd|[✅ 구경가기!](https://github.com/seunghw)|-|
-|캄토노|FrontEnd|[✅ 구경가기!](https://github.com/deipanema)|-|
-|동동|FrontEnd|[✅ 구경가기!](https://github.com/dongdongee)|-|
-|주륵|FrontEnd|[✅ 구경가기!](https://github.com/wugusaud77)|-|
-|카니|BackEnd|[✅ 구경가기!](https://github.com/KaniKim)|-|
-|킨드|BackEnd|[✅ 구경가기!](https://github.com/Cha-Young-Ho)|-|
-|얌|Designer|-|tyunevr@naver.com|
-
+<br/>
+<div align=center><a href="https://miraero-front.azurewebsites.net">미래로 보내는 편지</a></div>
